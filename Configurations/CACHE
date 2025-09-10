@@ -1,0 +1,20 @@
+{
+  "CurrentConfigFileName": "version.json",
+  "Updater": {
+    "CheckForUpdateAtStartup": true,
+    "DisablePopupVersionNumber": 0
+  },
+  "Main": {
+    "DisableDonationPopup": false,
+    "FirstLaunch": false,
+    "Height": 753,
+    "Left": 240,
+    "LeftDrawerOpen": true,
+    "PopupShownDateTime": "0001-01-01T00:00:00",
+    "StartMinimized": false,
+    "Top": 140,
+    "Width": 1440,
+    "WindowState": 0
+  },
+  "CultureSymbol": "en"
+}
